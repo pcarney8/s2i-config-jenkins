@@ -105,7 +105,7 @@ mercurial:2.8
 metrics:4.0.2.5
 momentjs:1.1.1
 mq-notifier:1.2.9
-mulitple-scms:0.6
+multiple-scms:0.6
 nexus-artifact-uploader:2.10
 nexus-jenkins-plugin:3.7.20190823-091836.9f85050
 node-iterator-api:1.5
